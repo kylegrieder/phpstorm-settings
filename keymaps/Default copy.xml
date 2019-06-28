@@ -12,25 +12,7 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
-  <action id="EditorTab">
-    <keyboard-shortcut first-keystroke="tab" />
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-  </action>
-  <action id="EditorUnindentSelection">
-    <keyboard-shortcut first-keystroke="shift tab" />
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-  </action>
-  <action id="FileChooser.GotoDesktop" />
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta alt right" />
-    <mouse-shortcut keystroke="button5" />
-  </action>
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="SendEOF" />
-  <action id="openAssertEqualsDiff" />
 </keymap>
